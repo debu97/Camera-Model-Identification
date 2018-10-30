@@ -3,7 +3,7 @@ This is done as a part of Deep Learning Course undertaken during 7th Semester at
 ## Objective:  
 To build a model which is able to identify the source of the image dataset (i.e. the camera model). 
 ## Dataset:  
-The dataset contains of 2750 training images from 10 different camera models (classes) along with 2640 test images. Some of the test images are manipulated using different technique like JPEG compression, bicubic interpolation and gamma correction. 
+The dataset consists of 2750 training images from 10 different camera models (classes) along with 2640 test images. Some of the test images are manipulated using different technique like JPEG compression, bicubic interpolation and gamma correction. 
 10 classes:
 1. HTC-1-M7
 2. iPhone-4s
