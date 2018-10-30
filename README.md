@@ -1,4 +1,5 @@
 # Camera-Model-Identification
+This is done as a part of Deep Learning Course undertaken during 7th Semester at Indian Institute of Space Science and Technology.
 ## Objective:  
 To build a model which is able to identify the source of the image dataset (i.e. the camera model). 
 ## Dataset:  
